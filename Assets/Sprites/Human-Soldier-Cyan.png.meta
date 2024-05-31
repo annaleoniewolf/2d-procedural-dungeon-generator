@@ -1,0 +1,3986 @@
+fileFormatVersion: 2
+guid: 4858c8f2fbee6d14585578a2cb65ef97
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e2d72e62bab1043bcf5c8928e77340
+      internalID: -2117964216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 224
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324d684cce0f59040a1a0304f196dd50
+      internalID: -490629412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 224
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd460e5710ad9b94fbafd7cbc2fcae19
+      internalID: -1832883246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 224
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2c87c145d352344995e415445c4c44
+      internalID: -366212155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 224
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e0fa379ab22b2428e472192a267709
+      internalID: 1338616942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 224
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9b41e750685494f872af08c2900e8c
+      internalID: -203682704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 224
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1519550d92d6bd14ba9934e7e4e60588
+      internalID: -1398902131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 224
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526abf226190b214e885f6a24e163543
+      internalID: -1662614491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 224
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059555885db4ba04ea982da095a51b62
+      internalID: 996843706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 224
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840282baeb90b5d488a80cc543eca673
+      internalID: 1252545706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 224
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c4c71714deef944847bd06e303c086
+      internalID: -1760461505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_11
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 224
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9314689a4eeeec74b96b4f8597289f58
+      internalID: 1911396327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 224
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04488df5e8c3ea64092ce539dcc8f420
+      internalID: -1097978781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_13
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 224
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919ee4b628b2b454a828c638cf69b69a
+      internalID: -823641567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_14
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 224
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dcad1712c379b40b478f9a92670b10
+      internalID: -565103269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_15
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 224
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d1ae6c63fe2b04aa2e761457cf9743
+      internalID: -431864212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_16
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 224
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f827bbb4703ed45ac5b2870c7ea94f
+      internalID: -1636098373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_17
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 224
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5e7278d7eea3c4aa62cf51113c0b33
+      internalID: 1416670509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_18
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 224
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086cf9943016e1b458253a78189acf52
+      internalID: 363788475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_19
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 224
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3554b9b16c8735b479af9d6a06ce46ff
+      internalID: -1649757758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_20
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 224
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db65884e52a1a664c9ff24fdcd74f397
+      internalID: 1881628556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_21
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 224
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7143a2d486a92b498474e2d7742354b
+      internalID: -472077715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc978a716c93544e8aa76c368a03a54
+      internalID: -393934778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 192
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b73089cad89ab42adf406eafb395a0
+      internalID: 1910918982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 192
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4f942b76e14fc4bb9e76ded514f1c5
+      internalID: -1037343754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 192
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbe76bea652be344b18e85f8c7832c9
+      internalID: 1545135662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 192
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48f4e34d934e1647a492b3c4002f8d2
+      internalID: -1058414547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_27
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 192
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba14cd4ae98f9c419b67dd6bd75b9fc
+      internalID: -1211340943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_28
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 192
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74572506bc5af564eb71c162d59a0184
+      internalID: -1622972661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_29
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 192
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffbd649cb4d92849a91bf8e224785c7
+      internalID: 94669641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_30
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 192
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d9dcfef09a0bc49a9273488c1c8159
+      internalID: 1582519095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_31
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 192
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80af93cd2c3e842409f896e47f6eaa44
+      internalID: 1301526141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_32
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 192
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc7fe0caa562834994a25ae4f546a1b
+      internalID: -171711025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_33
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 192
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e70987c3824ba4a8355721f39e5bf2
+      internalID: -1235104884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 192
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a90305141745b479862252954c3da5
+      internalID: 1538606815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_35
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 192
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdef588bd751610418e92ee4634cd066
+      internalID: 1683802077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_36
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 192
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969ce7afa002d394ab0717ade2419d0c
+      internalID: 410661627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_37
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 192
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d293d886610c2f144a5a17a8af7e81e9
+      internalID: -1488922255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_38
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 192
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2611a52c88897d041bb8b1003f86624f
+      internalID: -1788227252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_39
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 192
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895b42b015f0a344da559c6f4495815d
+      internalID: 1098967260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_40
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 192
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe891490036c2a4eb439211d9dcd979
+      internalID: 724111591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_41
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 192
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae53079d04af6854b837329438a555e9
+      internalID: 1480371198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_42
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 192
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212d2d9c17f2e87488d61f548f3d851d
+      internalID: -1075424365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_43
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 192
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8501d79f137f9c4b96dc45df966bf71
+      internalID: 407819109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b5abf91eb56414fa33b95b7ee0e04a
+      internalID: -212306700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_45
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 160
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9127b35a7d2507b448fe2144e982087e
+      internalID: -1974651896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_46
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 160
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79aab9f1087ec4446bd339c6681f9769
+      internalID: 1094295491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_47
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 160
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8382dd04e49049f479ce56e75adaa730
+      internalID: 271215952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_48
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 160
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d669bc6a3df0d4584dc38df385b6ab
+      internalID: 618584704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_49
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 160
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5acb2f243b27ca4d9064f2993fe2b41
+      internalID: 593040472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_50
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 160
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b94539edc6975a4497014531364c702
+      internalID: -1499836046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_51
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 160
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a404e861d1133b42b0cf5c95331fe52
+      internalID: -213591326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_52
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 160
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecb3987ebdecbd4896addd63f10ef1b
+      internalID: 872706525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_53
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 160
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a5ac11aee67084ca567264f38d5788
+      internalID: -634462427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_54
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 160
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d005867b3ab317645a12dc90c89b7c19
+      internalID: -843803785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_55
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 160
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd64e4665f01ed4a9c1b241c5ccd2c3
+      internalID: -1801874887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_56
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 160
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7530f8d1d7f848459978d659a8b80db
+      internalID: -1107487504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_57
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 160
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe5c0954566bfb47a67e2718450e96f
+      internalID: -2033141915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_58
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 160
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8360db3c4a2875841b4d4709a140f263
+      internalID: -2103853501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_59
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 160
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db6839f79a7c2a4694bba49674eaf24
+      internalID: 1226017735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_60
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 160
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a741de18d9f543d47ab0135910ed97b8
+      internalID: -232821771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_61
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 160
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd893224421975249920800d700a0e25
+      internalID: 1859487674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_62
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 160
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e92066c3adedc459a9dd09f76e4e78
+      internalID: 524620844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_63
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 160
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4121d0ab1c03141a83b0fc49d9742a
+      internalID: -1116637214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_64
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 160
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb49307fb4394446b112384bcb56b8f
+      internalID: -508856744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_65
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 160
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43733eabacf75f43bf0f96c840f8dc4
+      internalID: 1086124851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dd6da430b11234984771aa16aff196
+      internalID: -784618337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_67
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 128
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a93ae90987a8a149b7aee76cfb37f7f
+      internalID: 1151739563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_68
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 128
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a183adf1005cfd49a618d529607ee63
+      internalID: -1560991598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_69
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 128
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dd3c0dd20907d4b97f38d290f5a3df
+      internalID: 699167447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_70
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 128
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8c62e333ff072409c64ab678b85ecc
+      internalID: 479664637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_71
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 128
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604f0b3f99fc7484187dd6060653c768
+      internalID: 2054770562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_72
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 128
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1012966136c52e540b2526996f0031da
+      internalID: -516761960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_73
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 128
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2930f62d948c5c4ba87f48768bd1cce
+      internalID: 1236027685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_74
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 128
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06494bf81ad75f4e92f01a72169373c
+      internalID: 313674544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_75
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 128
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38aaf7ffd8cad3e41be325d31ef95be3
+      internalID: -631644010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_76
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 128
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06cb660bb098cd4fb908e1c7ec5eb01
+      internalID: 1538358905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_77
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 128
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeed10909997a7547a742bdd63257e70
+      internalID: -1895195890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_78
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 128
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246ba03ae1b0b9f4c87a4433774ab71e
+      internalID: -553202705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_79
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 128
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d517053c48a10e44954b0a1967421a4
+      internalID: 537458575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_80
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 128
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7eb67543c0b4f745a03fe2274cd637f
+      internalID: 856267340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_81
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 128
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcd5f4e27764c642a0c02d84420c1dc
+      internalID: 2088877801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_82
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 128
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c0e8e271c4f464f97de25ad164d467
+      internalID: -894361965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_83
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 128
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10116f38d8fb8b8458639334ca70abcf
+      internalID: -948999443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_84
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 128
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d04aec90465e714eb3ea29ac6732770
+      internalID: 543172445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_85
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 128
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a142cc3aadca34fbf05fcd661bb650
+      internalID: -495458199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_86
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 128
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16fc1306d06eec4e88d94ed4d0d807b
+      internalID: -357563427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_87
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 128
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3fb7ca6267b43418ff04fab7a07d51
+      internalID: 1769502663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac480be167429e4393f237335afd4ed
+      internalID: 1085691947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_89
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 96
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd3d293c8e7aff4197126d48a5d7d2d
+      internalID: 2014728547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_90
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 96
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913e7e99c3525c8438a4336b67eeed47
+      internalID: 663211800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_91
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 96
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d0a75ae984e394f902481367e25dde
+      internalID: 406199988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_92
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 96
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fdd996d77be2545bf6f4658291c9e6
+      internalID: -581492574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_93
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 96
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f9079b2e5cfc2479389c82bae10222
+      internalID: -1632110555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_94
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 96
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d620c04b95f474993f87ab9cf2859e
+      internalID: -1853426969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_95
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 96
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5b502bc26681c4196b1c13d7c4f587
+      internalID: -1975269419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_96
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 96
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f50ee602368c74f90b38b0eb7dcbd8
+      internalID: 261402497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_97
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 96
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048bb1e1327ef6f4495e52d602283d33
+      internalID: -596852905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_98
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 96
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966e47b0ecc8ebc49a4d38f62b0809f2
+      internalID: 341787468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_99
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 96
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2464b3dee24eaa448b65608bf37a1fe
+      internalID: 1020836311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_100
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 96
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea5d8ec0d2a8ef40b83e689248bbe57
+      internalID: 603924089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_101
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 96
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f51adc7356671b40afe8d47ac0d8d06
+      internalID: 1901029644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_102
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 96
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92685a50d507dd4e9867bdcc5d28477
+      internalID: 1546866152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_103
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 96
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a9362ee434dd04f97ecc3ea4f0b3c1
+      internalID: -335772090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_104
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 96
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92522151bd7f61e43aafbf130976f36b
+      internalID: 116109121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_105
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 96
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd86464f75bb81a4594d050dfd283878
+      internalID: 29989880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_106
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 96
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2baa3a92dd656694bb699fbfea41b9ba
+      internalID: -1478503106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_107
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 96
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174ca4878585c2643a84beff2b2f33e6
+      internalID: 632293544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_108
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 96
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc43e39edae822b40a9a2869f6832d7a
+      internalID: -260075093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_109
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 96
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b318154a5fd504eb48278f590ab3fb
+      internalID: 1739058599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bf89c2387b59e42a290f86df30cf5c
+      internalID: -1256541390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_111
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 64
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc6ddb6687d3cc47b785f715c61a561
+      internalID: -1504473616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_112
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 64
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c77445b26803f54389d614e4823b2a1
+      internalID: 839907148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_113
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 64
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca868b0e09d8e443a2039e5bb7ba3c5
+      internalID: -1402188879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_114
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 64
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b52ef89c47e68448c35ab0352b136c
+      internalID: -2126560906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_115
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 64
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e1b9ba585ebca48927668ee71fd587
+      internalID: -393019863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_116
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 64
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fda5586c356bd46bf07ad6409e83f7
+      internalID: 642558753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_117
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 64
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25f5483248a2e54eab478bc24c5835d
+      internalID: 1565335865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_118
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407eddcb9251c5f4fb79fab953ba582a
+      internalID: 1928400059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_119
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 64
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e820af4ab586844a2a7831b547ab1b
+      internalID: 639965779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_120
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 64
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f440979d2dab443979a69834922360
+      internalID: 1317743782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_121
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 64
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3d7f980ddd28b47964a416f78a498d
+      internalID: 1094943984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_122
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 64
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8897c8e6e04483f4f8236da7e0774f05
+      internalID: -76865757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_123
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 64
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f1c87650cce0045886c4359e07c522
+      internalID: 32882605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_124
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 64
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481949bfe1b921d4695eb57b1956e09c
+      internalID: 1547718965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_125
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 64
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38483d981319a65458cd06381291850e
+      internalID: -599417474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_126
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 64
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c9bc6ce9a87d74f907a2a15cae2a41
+      internalID: 1424427362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_127
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 64
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4ca2c6ad974874599d131a88a63455
+      internalID: 225445124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_128
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 64
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd28f82d73f541d4191ef673ce9843d9
+      internalID: 1316995351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_129
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 64
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f805f5e3eb21f0b45b4ea28e9cb7a1ac
+      internalID: -764719947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_130
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 64
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3899dccd95f75e48a2ecfc79a624297
+      internalID: -717287345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_131
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 64
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13ea88f36048f44392d69504298368e
+      internalID: -1774726988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a543ab3cb542d4e9ed8839953852a7
+      internalID: 1191506603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_133
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 32
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4491e83b711543340a06dfdb63faaa2f
+      internalID: -2054973619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_134
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 32
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39880685135d9d41b8929b76b17a6e5
+      internalID: 808358738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_135
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 32
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680ebd40a5d11b145859ed3f9619463b
+      internalID: 1822237412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_136
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 32
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048b7db9f79a4794f8b16bee10a27ce9
+      internalID: 1753564941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_137
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 32
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7afd0d745f04d4fbdec831c2e0fee5
+      internalID: -1995331453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_138
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 32
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68093e002c1d98044a8af832eed13e66
+      internalID: -1256133834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_139
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 32
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0264b0ab8ce9c47b3519f0189e2b75
+      internalID: -889272009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_140
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 32
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd269d58f40a344da8bca79a49ed6a6
+      internalID: -1317182130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_141
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 32
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6030be9992f1e7940b563d56af751cc9
+      internalID: 255892469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_142
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 32
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8719d56b77c934b49b5c33a6c0ca842c
+      internalID: -1133643554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_143
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 32
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1655413131b3a2d4cb5d00b33277c213
+      internalID: -721767631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_144
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 32
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf1d946f9fc73848af4bf897a377628
+      internalID: 1485234791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_145
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 32
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796ad7cc81333064196c977cff72b382
+      internalID: 1334263857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_146
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 32
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88ee4d20ccf3474fa539c4be281d046
+      internalID: -1171245985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_147
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 32
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc31dc2476365449bbbbae76b11d251
+      internalID: -1120860005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_148
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 32
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f491adef6ad74498f44dd4073b4924
+      internalID: 1386286746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_149
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 32
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591038270e97d554c9133b3d7a3015d0
+      internalID: -830433910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_150
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 32
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0a58f718e571e42abb6e34d2cabcd1
+      internalID: -534620942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_151
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 32
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234ab2f7f271de14ab37eb4c3b15a74a
+      internalID: -1226779988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_152
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 32
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5524bb1cea7da284fb6ba02e3f54d282
+      internalID: -1315643345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_153
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 32
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af05897f007e554b940f29ae73bdbe2
+      internalID: 1534657126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af9b1800a3dd2c488da8777a7bd4448
+      internalID: 1632094598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_155
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a024abff4a55a46b6275152f177ff2
+      internalID: 983010287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_156
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25be176a901ce9e48b87299513ba2bd7
+      internalID: 1750553410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_157
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648e02e5c6bf66e499c550cac8f3f229
+      internalID: -80230773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_158
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f953e1a17e199154c97eb41b17b679c5
+      internalID: 1852355433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_159
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b8e673e904def46a403d18e6cbf350
+      internalID: 2135847519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_160
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba519dd7355e003419c1b635943d9ec8
+      internalID: 1482779376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_161
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b2bc2ae9217fc4c8bf910372299171
+      internalID: -787358350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_162
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac855f17bee53b43a086bc5c71ea59a
+      internalID: 1980031660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_163
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc2dace9e9c7e84a93bdacd94f9ab01
+      internalID: 1975904140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_164
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34a2878e333ca5408dd55bd882bfc87
+      internalID: 1107145482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_165
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 0
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11428d834ce61fc459291d8aed10476c
+      internalID: 1892463694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_166
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd232f6cefd9da744aba2dbe0cdba248
+      internalID: -1976040330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_167
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa99240e81142d7488af53db659cd415
+      internalID: 980078365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_168
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 0
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51672fdf783763c4fb94ac52df98bab1
+      internalID: -736789936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_169
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976833050e42a9e4e8eb3ca6055efb7d
+      internalID: 2084682387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_170
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fa9eacb35238741a027ffbf3af7c58
+      internalID: 1384655560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_171
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f8191dc41e1864fa4f5408a1d8796a
+      internalID: 83899777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_172
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf777254ad2ae54d9659b3545014718
+      internalID: -1066854414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_173
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 0
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e17c5bfddc9f94db92f0ba86b8f98a
+      internalID: 1112691847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_174
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcf3de86070bdd498add227c2be9f37
+      internalID: -1590580699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human-Soldier-Cyan_175
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 0
+        width: 34.909092
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd97a7515d14b79429688158a7e575c5
+      internalID: -1642489514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Human-Soldier-Cyan_0: -2117964216
+      Human-Soldier-Cyan_1: -490629412
+      Human-Soldier-Cyan_10: -1760461505
+      Human-Soldier-Cyan_100: 603924089
+      Human-Soldier-Cyan_101: 1901029644
+      Human-Soldier-Cyan_102: 1546866152
+      Human-Soldier-Cyan_103: -335772090
+      Human-Soldier-Cyan_104: 116109121
+      Human-Soldier-Cyan_105: 29989880
+      Human-Soldier-Cyan_106: -1478503106
+      Human-Soldier-Cyan_107: 632293544
+      Human-Soldier-Cyan_108: -260075093
+      Human-Soldier-Cyan_109: 1739058599
+      Human-Soldier-Cyan_11: 1911396327
+      Human-Soldier-Cyan_110: -1256541390
+      Human-Soldier-Cyan_111: -1504473616
+      Human-Soldier-Cyan_112: 839907148
+      Human-Soldier-Cyan_113: -1402188879
+      Human-Soldier-Cyan_114: -2126560906
+      Human-Soldier-Cyan_115: -393019863
+      Human-Soldier-Cyan_116: 642558753
+      Human-Soldier-Cyan_117: 1565335865
+      Human-Soldier-Cyan_118: 1928400059
+      Human-Soldier-Cyan_119: 639965779
+      Human-Soldier-Cyan_12: -1097978781
+      Human-Soldier-Cyan_120: 1317743782
+      Human-Soldier-Cyan_121: 1094943984
+      Human-Soldier-Cyan_122: -76865757
+      Human-Soldier-Cyan_123: 32882605
+      Human-Soldier-Cyan_124: 1547718965
+      Human-Soldier-Cyan_125: -599417474
+      Human-Soldier-Cyan_126: 1424427362
+      Human-Soldier-Cyan_127: 225445124
+      Human-Soldier-Cyan_128: 1316995351
+      Human-Soldier-Cyan_129: -764719947
+      Human-Soldier-Cyan_13: -823641567
+      Human-Soldier-Cyan_130: -717287345
+      Human-Soldier-Cyan_131: -1774726988
+      Human-Soldier-Cyan_132: 1191506603
+      Human-Soldier-Cyan_133: -2054973619
+      Human-Soldier-Cyan_134: 808358738
+      Human-Soldier-Cyan_135: 1822237412
+      Human-Soldier-Cyan_136: 1753564941
+      Human-Soldier-Cyan_137: -1995331453
+      Human-Soldier-Cyan_138: -1256133834
+      Human-Soldier-Cyan_139: -889272009
+      Human-Soldier-Cyan_14: -565103269
+      Human-Soldier-Cyan_140: -1317182130
+      Human-Soldier-Cyan_141: 255892469
+      Human-Soldier-Cyan_142: -1133643554
+      Human-Soldier-Cyan_143: -721767631
+      Human-Soldier-Cyan_144: 1485234791
+      Human-Soldier-Cyan_145: 1334263857
+      Human-Soldier-Cyan_146: -1171245985
+      Human-Soldier-Cyan_147: -1120860005
+      Human-Soldier-Cyan_148: 1386286746
+      Human-Soldier-Cyan_149: -830433910
+      Human-Soldier-Cyan_15: -431864212
+      Human-Soldier-Cyan_150: -534620942
+      Human-Soldier-Cyan_151: -1226779988
+      Human-Soldier-Cyan_152: -1315643345
+      Human-Soldier-Cyan_153: 1534657126
+      Human-Soldier-Cyan_154: 1632094598
+      Human-Soldier-Cyan_155: 983010287
+      Human-Soldier-Cyan_156: 1750553410
+      Human-Soldier-Cyan_157: -80230773
+      Human-Soldier-Cyan_158: 1852355433
+      Human-Soldier-Cyan_159: 2135847519
+      Human-Soldier-Cyan_16: -1636098373
+      Human-Soldier-Cyan_160: 1482779376
+      Human-Soldier-Cyan_161: -787358350
+      Human-Soldier-Cyan_162: 1980031660
+      Human-Soldier-Cyan_163: 1975904140
+      Human-Soldier-Cyan_164: 1107145482
+      Human-Soldier-Cyan_165: 1892463694
+      Human-Soldier-Cyan_166: -1976040330
+      Human-Soldier-Cyan_167: 980078365
+      Human-Soldier-Cyan_168: -736789936
+      Human-Soldier-Cyan_169: 2084682387
+      Human-Soldier-Cyan_17: 1416670509
+      Human-Soldier-Cyan_170: 1384655560
+      Human-Soldier-Cyan_171: 83899777
+      Human-Soldier-Cyan_172: -1066854414
+      Human-Soldier-Cyan_173: 1112691847
+      Human-Soldier-Cyan_174: -1590580699
+      Human-Soldier-Cyan_175: -1642489514
+      Human-Soldier-Cyan_18: 363788475
+      Human-Soldier-Cyan_19: -1649757758
+      Human-Soldier-Cyan_2: -1832883246
+      Human-Soldier-Cyan_20: 1881628556
+      Human-Soldier-Cyan_21: -472077715
+      Human-Soldier-Cyan_22: -393934778
+      Human-Soldier-Cyan_23: 1910918982
+      Human-Soldier-Cyan_24: -1037343754
+      Human-Soldier-Cyan_25: 1545135662
+      Human-Soldier-Cyan_26: -1058414547
+      Human-Soldier-Cyan_27: -1211340943
+      Human-Soldier-Cyan_28: -1622972661
+      Human-Soldier-Cyan_29: 94669641
+      Human-Soldier-Cyan_3: -366212155
+      Human-Soldier-Cyan_30: 1582519095
+      Human-Soldier-Cyan_31: 1301526141
+      Human-Soldier-Cyan_32: -171711025
+      Human-Soldier-Cyan_33: -1235104884
+      Human-Soldier-Cyan_34: 1538606815
+      Human-Soldier-Cyan_35: 1683802077
+      Human-Soldier-Cyan_36: 410661627
+      Human-Soldier-Cyan_37: -1488922255
+      Human-Soldier-Cyan_38: -1788227252
+      Human-Soldier-Cyan_39: 1098967260
+      Human-Soldier-Cyan_4: 1338616942
+      Human-Soldier-Cyan_40: 724111591
+      Human-Soldier-Cyan_41: 1480371198
+      Human-Soldier-Cyan_42: -1075424365
+      Human-Soldier-Cyan_43: 407819109
+      Human-Soldier-Cyan_44: -212306700
+      Human-Soldier-Cyan_45: -1974651896
+      Human-Soldier-Cyan_46: 1094295491
+      Human-Soldier-Cyan_47: 271215952
+      Human-Soldier-Cyan_48: 618584704
+      Human-Soldier-Cyan_49: 593040472
+      Human-Soldier-Cyan_5: -203682704
+      Human-Soldier-Cyan_50: -1499836046
+      Human-Soldier-Cyan_51: -213591326
+      Human-Soldier-Cyan_52: 872706525
+      Human-Soldier-Cyan_53: -634462427
+      Human-Soldier-Cyan_54: -843803785
+      Human-Soldier-Cyan_55: -1801874887
+      Human-Soldier-Cyan_56: -1107487504
+      Human-Soldier-Cyan_57: -2033141915
+      Human-Soldier-Cyan_58: -2103853501
+      Human-Soldier-Cyan_59: 1226017735
+      Human-Soldier-Cyan_6: -1398902131
+      Human-Soldier-Cyan_60: -232821771
+      Human-Soldier-Cyan_61: 1859487674
+      Human-Soldier-Cyan_62: 524620844
+      Human-Soldier-Cyan_63: -1116637214
+      Human-Soldier-Cyan_64: -508856744
+      Human-Soldier-Cyan_65: 1086124851
+      Human-Soldier-Cyan_66: -784618337
+      Human-Soldier-Cyan_67: 1151739563
+      Human-Soldier-Cyan_68: -1560991598
+      Human-Soldier-Cyan_69: 699167447
+      Human-Soldier-Cyan_7: -1662614491
+      Human-Soldier-Cyan_70: 479664637
+      Human-Soldier-Cyan_71: 2054770562
+      Human-Soldier-Cyan_72: -516761960
+      Human-Soldier-Cyan_73: 1236027685
+      Human-Soldier-Cyan_74: 313674544
+      Human-Soldier-Cyan_75: -631644010
+      Human-Soldier-Cyan_76: 1538358905
+      Human-Soldier-Cyan_77: -1895195890
+      Human-Soldier-Cyan_78: -553202705
+      Human-Soldier-Cyan_79: 537458575
+      Human-Soldier-Cyan_8: 996843706
+      Human-Soldier-Cyan_80: 856267340
+      Human-Soldier-Cyan_81: 2088877801
+      Human-Soldier-Cyan_82: -894361965
+      Human-Soldier-Cyan_83: -948999443
+      Human-Soldier-Cyan_84: 543172445
+      Human-Soldier-Cyan_85: -495458199
+      Human-Soldier-Cyan_86: -357563427
+      Human-Soldier-Cyan_87: 1769502663
+      Human-Soldier-Cyan_88: 1085691947
+      Human-Soldier-Cyan_89: 2014728547
+      Human-Soldier-Cyan_9: 1252545706
+      Human-Soldier-Cyan_90: 663211800
+      Human-Soldier-Cyan_91: 406199988
+      Human-Soldier-Cyan_92: -581492574
+      Human-Soldier-Cyan_93: -1632110555
+      Human-Soldier-Cyan_94: -1853426969
+      Human-Soldier-Cyan_95: -1975269419
+      Human-Soldier-Cyan_96: 261402497
+      Human-Soldier-Cyan_97: -596852905
+      Human-Soldier-Cyan_98: 341787468
+      Human-Soldier-Cyan_99: 1020836311
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
